@@ -2,3 +2,5 @@
 .devcontainer/
 .codesandbox/
 node_modules
+dist/
+.env
